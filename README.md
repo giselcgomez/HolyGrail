@@ -6,3 +6,5 @@ Progresive client side: superagent <br/><br/>
 To Run:<br/>
 Install npm, express and redis.<br/>
 Run node index.js<br/>
+
+MIT License
